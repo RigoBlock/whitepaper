@@ -1,4 +1,4 @@
 # whitepaper
 
 ## You may download it directly from our website:
-[![API Website](http://rigoblock.com/)](http://rigoblock.com/)
+[![Website](https://github.com/RigoInvestment/website/blob/master/img/RigoLogoTop.png)](http://rigoblock.com)
