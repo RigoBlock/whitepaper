@@ -1,4 +1,4 @@
-# whitepaper
+# RigoBlock Whitepaper
 
-## Click on our logo below to download it directly from our website:
+## Formal Specification of the RigoBlock Protocol
 [![Website](https://github.com/RigoInvestment/website/blob/master/img/RigoLogoTop.png)](http://rigoblock.com)
