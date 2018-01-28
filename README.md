@@ -1,4 +1,5 @@
+<img src="https://github.com/RigoBlock/PR/blob/master/RigoBlock%20Logo%2011.17.png" width="100px" >
+
 # RigoBlock Whitepaper
 
 ## Formal Specification of the RigoBlock Protocol
-[![Website](https://github.com/RigoInvestment/website/blob/master/img/RigoLogoTop.png)](http://rigoblock.com)
